@@ -57,7 +57,6 @@ engineering naming standards.
 1. Average measurement by subject does not feel right.  For example, time of day or food intake... may influence the activity level.  Averaging this hides possible
 interesting outliers.
 1. R is really quick on tidying when their are no data exceptions.  It would be interesting to work with dirty data and compare against an ETL tool like Talend.
-1. Kind of funny that the submission does not include all the column name work :smiley:
 
 ## Tests
 No tests or self-checks incorporated.
